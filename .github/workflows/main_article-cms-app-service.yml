@@ -34,7 +34,8 @@ jobs:
         run: pip install setuptools wheel
 
       - name: Install depen
-        run: pip install cffi pyodbc --no-build-isolation
+        run: pip install cffi pyodbc
+        
       - name: Install dependencies
         run: pip install -r requirements.txt
         
