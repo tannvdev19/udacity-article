@@ -68,20 +68,20 @@ For basic/tesing using:
 | ------------------------- | ----------------------- | ------------ |
 | _Azure Function App_      | Basic B1                | 12.41 USD    |
 | _Azure Postgres Database_ | Basic, 1 vCore(s), 5 GB | 25.32 USD    |
-| _Azure Service App Plan    | Basic B1                | 12.41 USD    |
+| _Azure Service App Plan_   | Basic B1                | 12.41 USD    |
 | _Azure Service Bus_       | Basic                   | 0.05 USD     |
-| _Total cost_              | N/A                     | 50.19 USD    |
+| _Total cost_              |                         | 50.19 USD    |
 
 For essential using:
 
 | Azure Resource            | Service Tier              | Monthly Cost |
 | ------------------------- | ------------------------- | ------------ |
 | _Azure Postgres Database_ | Gen 5, 4 vCore(s), 100 GB | 267.29 USD   |
-| _Azure Service App Plan   | Premium P1V3              | 113.15 USD   |
+| _Azure Service App Plan_  | Premium P1V3              | 113.15 USD   |
 | _Azure Function App_      | Premium EP1               | 157.72 USD   |
 | _Azure Service Bus_       | Standard                  | 10 USD       |
 
-| _Total cost_              | N/A                       | 548.16 USD   |
+| _Total cost_              |                           | 548.16 USD   |
 
 ## Architecture Explanation
 
